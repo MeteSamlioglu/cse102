@@ -1,2 +1,2 @@
 # cse102
-C programming Homeworks and its solutions
+C programming Examples and its solutions
